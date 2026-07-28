@@ -21,6 +21,7 @@ Each CSV file contains a single header row followed by numerical data.
 - Remaining columns are y-axis datasets:
   - `*_infid_*`: gate infidelity, defined as (1 - F), F is average gate fidelity.
   - `*_error_*`: error terms used in the manuscript.
+  - `*_decoh_*`: decoherence-only case.
 - Suffixes such as `CD`, `FM`, `DD` denote the control setting.
 - `X1`, `X2`, `X1X2`, `idle` indicate the gate operation considered in the dataset:
   - `X1`: single-qubit X gate on qubit 1
