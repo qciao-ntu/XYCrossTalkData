@@ -4,7 +4,6 @@ This folder contains the processed numerical data used to generate the figures i
 **Scalable Suppression of XY Crosstalk by Pulse-Level Control in Superconducting Quantum Processors**.
 
 Publication information:
-- arXiv:2601.05231
 - Phys. Rev. Applied, accepted 23 July 2026
 - DOI: https://doi.org/10.1103/v8p3-qh5k
 
